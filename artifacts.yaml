@@ -5,6 +5,9 @@ churn:
 cv-class:
   path: s3://mycorp/proj-ml/classif-v2.pt
   type: model
+m3:
+  path: mdadsa
+  type: model
 segment:
   path: s3://mycorp/proj-ml/segm-model-2022-04-15.pt
   type: model
