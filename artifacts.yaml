@@ -8,6 +8,9 @@ cv-class:
 m3:
   path: mdadsa
   type: model
+m4:
+  path: dasdas
+  type: model
 mmm:
   path: adsdsa
   type: model
